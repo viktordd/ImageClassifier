@@ -1,0 +1,13 @@
+﻿.hide {
+  display: none;
+}
+
+.image-table th:first-child {
+  width: 420px;
+}
+
+.photo-image {
+  max-height: 400px;
+  width: 400px;
+  object-fit: scale-down;
+}
